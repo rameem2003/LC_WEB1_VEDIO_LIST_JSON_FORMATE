@@ -1,0 +1,383 @@
+[
+    {
+        "id" : "1",
+        "videoTitle" : "0.1 || Run First Web Site || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/prJOC_Y6ke4",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "2",
+        "videoTitle" : "0.2 || Code Editor || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/EVswemG8ibo",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "3",
+        "videoTitle" : "0.3 || Browser Knowledge || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/5xYAJzJbfWM",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "4",
+        "videoTitle" : "1.1 || Browser Knowledge || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/Tecn3lrA3S0",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "5",
+        "videoTitle" : "1.2 || Install Node JS || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/U32Ea5dzdtA",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "6",
+        "videoTitle" : "1.3 || TERMINAL || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/2HaOB8u6tes",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "7",
+        "videoTitle" : "2.1 || What is HTML || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/D1jnQpYA1ns",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "8",
+        "videoTitle" : "2.2 || HOW DO USE HTML || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/1IacDUhngw0",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "9",
+        "videoTitle" : "2.3 || HOW TO RAN HTML || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/ZIEQ9yoas7g",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "10",
+        "videoTitle" : "3.1 || Bold in HTML || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/EoIqG1065iw",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "11",
+        "videoTitle" : "3.2 || Comments in HTML || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/w3HKf_3ldm4",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "12",
+        "videoTitle" : "3.3 || Emphasized in HTML || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/Qucyh-xQgnc",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "13",
+        "videoTitle" : "4.1 || HTML Attributes || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/9sW2cgEQKKU",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "14",
+        "videoTitle" : "4.2 || HTML Elements || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/0XOgnYduAU4",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "15",
+        "videoTitle" : "4.3 || HTML Headings (h1-h6) || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/W3v3iAA4h3w",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "16",
+        "videoTitle" : "5.1 || HTML Structure || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/_daAMJKVCu8",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "17",
+        "videoTitle" : "5.2 || HTML Tags || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/UqZwN4z4a3o",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "18",
+        "videoTitle" : "5.3 || Line Break in HTML || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/CVSlUHRnQdw",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "19",
+        "videoTitle" : "6.1 || Paragraphs in HTML || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/92WQ-8IfeCw",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "20",
+        "videoTitle" : "6.2 || Italic in HTML || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/QBs8HzILrr4",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "21",
+        "videoTitle" : "6.3 || Link Tag In HTML || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/gQ5JbPqOBhg",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "22",
+        "videoTitle" : "7.1 || Images Tag in HTML || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/J0wXTWgZrH8",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "23",
+        "videoTitle" : "7.2 || Unordered List In HTML || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/Dp74rQkNbZY",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+
+    {
+        "id" : "24",
+        "videoTitle" : "7.3 || Ordered List In HTML || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/6F3vojroLoo",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "25",
+        "videoTitle" : "8.1 || Description Lists In HTML || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/Gtb9_Rw9KUM",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "26",
+        "videoTitle" : "8.2 || Tables Tag In HTML || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/nyI6duJogBI",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "27",
+        "videoTitle" : "8.3 || Tables Data Tag In HTML || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/xIaMB0FD7-E",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "28",
+        "videoTitle" : "9.1 || Table style in HTML || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/bOB5I7gmzts",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "29",
+        "videoTitle" : "9.2 || Thead, Tbody, Tfoot in HTML || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/5zYt0ern_AA",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "30",
+        "videoTitle" : "9.3 || Caption Tag in HTML || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/P5TTjgb3TLA",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "31",
+        "videoTitle" : "10.01 || Table row in HTML || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/BWR0lAQQcWk",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "32",
+        "videoTitle" : "10.02 || HTML Input & Attributes || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/_oqze3yhLsM",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "33",
+        "videoTitle" : "10.03 || Label Element In HTML || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/3aDQ3yp6uwU",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "34",
+        "videoTitle" : "11.01 || HTML Form || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/mCEoJrflK0Q",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "35",
+        "videoTitle" : "11.02 || Div Tag in HTML || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/g0vrRDMVtKM",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "36",
+        "videoTitle" : "11.03 || Section Tag in HTML || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/l78dfzbo_9E",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "37",
+        "videoTitle" : "12.01 || Semantics (header, nav, article, aside, footer) || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/gZt1010xxCw",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    },
+
+    {
+        "id" : "38",
+        "videoTitle" : "12.02 || Audio Tag in HTML || LC Fundamental web - 1 || Listen Coders",
+        "videoLink" : "https://youtu.be/usWXn4bpQJ0",
+        "resources" : "_",
+        "discription" : "_",
+        "lcLogo" : "https://ibb.co/JqMcC7d",
+        "mentorProfile" : "https://ibb.co/0MCwKt0"
+    }
+
+]
